@@ -1,0 +1,9 @@
+export { Header } from './Header';
+export { HeroSection } from './HeroSection';
+export { WhatYouLearnSection } from './WhatYouLearnSection';
+export { WhyChooseSection } from './WhyChooseSection';
+export { GallerySection } from './GallerySection';
+export { ModulesSection } from './ModulesSection';
+export { PricingSection } from './PricingSection';
+export { ContactSection } from './ContactSection';
+export { Footer } from './Footer';
